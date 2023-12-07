@@ -1,0 +1,9 @@
+- Cú pháp khai báo đối tượng trong JS:
+  tu_khoa_khai_bao ten_doi tuong = {
+    key: value
+  }
+
+- Khi khai báo đối tượng nên đặt với từ khóa const
+- Quy tắc đặt tên đối tượng: giống với quy tắc đặt tên biến
+  + Viết theo kiểu camel case
+  + Là những danh từ ...
